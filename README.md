@@ -1,1 +1,1 @@
-# stream-deck
+# Stream Deck V1.0
